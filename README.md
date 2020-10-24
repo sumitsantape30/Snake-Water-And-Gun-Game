@@ -16,6 +16,6 @@ Rules :-
 
  You have to type "S" for snake "W" for water and "G" for gun.
 
-Modifications
+Modifications:
 
     Any modifications are heartly welcome.
