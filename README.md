@@ -8,7 +8,7 @@ Snake-Water-Gun: Using Python
 
     I hope that you will enjoy the game. Cheers.
 
-    How this game work !!!!!!!
+    How this game works !!!!!!!
 
     Single player can play this game with the bot.
 
