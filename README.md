@@ -6,7 +6,7 @@ Snake-Water-Gun: Using Python
 
     This program is a part of python tutorials for absolute beginners series.
 
-    I hope that you will enjoy the game. Cheers !
+    I hope that you will enjoy the game. Cheers.
 
     How this game work !!!!!!!
 
