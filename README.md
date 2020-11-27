@@ -18,4 +18,4 @@ Rules :-
 
 Modifications:
 
-    Any modifications are heartly welcome.
+    Any modifications are heartly welcome :)
